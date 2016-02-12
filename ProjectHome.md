@@ -1,0 +1,1 @@
+a tiny library for easy glitch creation in Processing
